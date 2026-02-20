@@ -200,13 +200,6 @@ pnpm run dev
 
 ------------------------------------------------------------------------
 
-## Demo
-
-<video src="./Video.mp4" controls="controls" width="100%" height="400">
-</video>
-
-------------------------------------------------------------------------
-
 ## Motivation
 
 Search engines are one of the most fundamental systems in computer
