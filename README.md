@@ -213,7 +213,9 @@ This project was built to deeply understand:
 
 ------------------------------------------------------------------------
 
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7429828930125230080" height="1928" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+## LinkedIn
+
+https://www.linkedin.com/in/armghan-baig
 
 ## License
 
